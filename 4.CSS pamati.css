@@ -1,0 +1,35 @@
+h1{
+    color: yellow;
+    background-color: rgb(186, 178, 178) ;
+text-decoration: underline;
+font-family: Arial;
+text-align: center;
+}
+
+p{
+    background-color: rgb(186, 178, 178) ;
+   text-align: right;
+   line-height: 30px;
+   letter-spacing: 2px;
+   column-count: 2;
+   column-gap: 60px;
+   text-align: justify;
+}
+
+ul{
+     /* border-width: 4px; ;
+    border-style: solid;
+    border-color: rgb(246, 105, 105);
+     */
+     border-bottom: 4px dashed rgb(229, 73, 104);
+     border-left: 10px dotted rgb(229, 73, 104);
+     border-bottom-left-radius: 20px;
+
+}
+
+li{
+    list-style-type: none;
+   font-size: 18pt;
+   text-shadow: 2px 2px lightgrey;
+
+}
